@@ -35,7 +35,7 @@ export const mapDispatchToProps = dispatch => {
     goGetCats: () => dispatch()
   };
 };
-_addRandomPerson: () => dispatch(addRandomPerson());
+
 // don't touch this line
 // but this is the component you probably want in most cases
 // so if you're using DisconnectedAllCats somewhere else in your program
